@@ -1,5 +1,5 @@
 ﻿
-Console.WriteLine("Hello, World!");
+
 namespace _7Lab
 {
     internal class Program
